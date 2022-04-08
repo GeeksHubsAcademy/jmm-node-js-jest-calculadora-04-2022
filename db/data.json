@@ -1,0 +1,26 @@
+[
+    {
+        "id": "3bafa242-f887-4243-9ff8-d063a088a34d",
+        "type": "Suma",
+        "result": 4,
+        "date": "22/3/2021"
+    },
+    {
+        "id": "b8661622-6d74-4acc-affa-a57f09a37974",
+        "type": "Resta",
+        "result": 70,
+        "date": "8/4/2022"
+    },
+    {
+        "id": "5769a6ec-0a36-41db-878c-576869f49c1c",
+        "type": "Resta",
+        "result": 70,
+        "date": "8/4/2022"
+    },
+    {
+        "id": "83580864-bcf5-4fae-9c20-84f8bc454495",
+        "type": "Suma",
+        "result": 8,
+        "date": "8/4/2022"
+    }
+]
